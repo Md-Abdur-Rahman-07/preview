@@ -1,0 +1,36 @@
+// -----------------------------------------------------------------------------
+// This file contains all styles related to the header of the site
+// -----------------------------------------------------------------------------
+
+.header {
+  padding: 15px 16px;
+  text-align: center;
+
+  @include media('screen', '>=tablet') {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+}
+
+.logo-holder {
+  @include media('screen', '>=tablet') {
+    padding-left: 180px;
+    flex: 1;
+    padding-right: 20px;
+  }
+}
+
+.header-txt {
+  display: block;
+  padding-top: 10px;
+  color: $white;
+  font-weight: 700;
+
+  @include media('screen', '>=tablet') {
+    width: 160px;
+    flex-shrink: 0;
+    text-align: right;
+    padding-top: 0;
+  }
+}

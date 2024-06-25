@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <!-- page title -->
+    <title>Nybolig Produktkatalog</title>
+    <!-- include jQuery library -->
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+      integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+      defer
+    ></script>
+    <!-- include jQuery library local file if cdn link doesn't work -->
+    <script>
+      window.jQuery || document.write('<script src="js/jquery-3.6.0.min.js" defer><\/script>');
+    </script>
+    <!-- include app js file  -->
+    <script src="js/app.js" defer></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="css/style.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://use.typekit.net/tep1hwl.css">
+  </head>
+  <body>
+    <a class="accessibility" href="#main">Skip to Content</a>
+    <noscript>
+      <div>Javascript must be enabled for the correct page display</div>
+    </noscript>
+    <div class="wrapper">
+      <header class="header">
+        <div class="logo-holder">
+          <a href="#" data-filter="all" class="logo"><img src="https://assets.home.dk/cms/media/w23ardmi/logo.svg?rxy=0.5" width="60" height="60" alt="Nybolig" /></a>
+        </div>
+        <span class="header-txt">Nybolig Frederiksberg</span>
+      </header>
+      <div class="page-holder filter-block">
+        <ul class="filter-btns">
+          <li><a href="#" data-filter="all" class="active">Alle produkter</a></li>
+          <li><a href="#" data-filter="video">Video</a></li>
+          <li><a href="#" data-filter="visualisering">Visualisering</a></li>
+          <li><a href="#" data-filter="styling">Styling</a></li>
+          <li><a href="#" data-filter="3d/vr">3D/VR</a></li>
+          <li><a href="#" data-filter="drone">Drone</a></li>
+          <li><a href="#" data-filter="tekster">Tekster</a></li>
+          <li><a href="#" data-filter="plantegninger">Plantegninger</a></li>
+          <li><a href="#" data-filter="redigering">Redigering</a></li>
+          <li><a href="#" data-filter="fotos">Fotos</a></li>
+        </ul>
+        <div class="gallery-images">
+          <div id="entry-template" data-json="inc/data.json" class="columns-scrollable">
+            <script type="text/x-handlebars-template">
+              {{#if this}}
+                {{#each this}}
+                {{#ifFirst @index}}
+                  <div class='column type-1'>
+                {{/ifFirst}}
+                {{#ifThird @index}}
+                  <div class='column type-2'>
+                {{/ifThird}}
+                {{#ifSixth @index}}
+                  <div class='column type-3'>
+                {{/ifSixth}}
+                {{#ifEighth @index}}
+                  <div class='column type-4'>
+                {{/ifEighth}}
+                {{#ifTenth @index}}
+                  <div class='column type-5'>
+                {{/ifTenth}}
+                <div  data-key="{{@index}}" class="image-item" >
+                  <a href="#popupGallery" data-fancybox style="background-image: url({{image}});" class="image-link">
+                    <div class="info">
+                      <h3 class="title">{{name}}</h3>
+                      <strong class="price">{{price}}</strong>
+                    </div>
+                  </a>
+                  <div class="content-wrap" data-to-modal>
+                    <div class="content">
+                      {{#if gallery}}
+                        <div class="carousel-images">
+                          {{#each gallery}}
+                          <div class="carousel__slide">
+                            {{#if image}}
+                            <div class="media-bg" style="background-image: url({{image}});"></div>
+                            {{/if}}
+                            {{#if compare}}
+                              <div class="compare-img">
+                                <div class="slider-button" aria-hidden="true">
+                                  <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" viewBox="0 0 256 256">
+                                    <rect width="256" height="256" fill="none"></rect>
+                                    <line x1="128" y1="40" x2="128" y2="216" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line>
+                                    <line x1="96" y1="128" x2="16" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line>
+                                    <polyline points="48 160 16 128 48 96" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline>
+                                    <line x1="160" y1="128" x2="240" y2="128" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></line>
+                                    <polyline points="208 96 240 128 208 160" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="16"></polyline>
+                                  </svg>
+                                </div>
+                                <input type="range"  min="0" max="100" value="50" aria-label="Percentage of before photo shown" class="slider">
+                                {{#if compare.before}}
+                                  <img src="{{compare.before}}" class="compare-bg before"  alt="Image Description"/>
+                                {{/if}}
+                                {{#if compare.after}}
+                                  <img src="{{compare.after}}" class="compare-bg after"  alt="Image Description"/>
+                                {{/if}}
+                              </div>
+                            {{/if}}
+                            {{#if iframe}}
+                            <div class="media-bg">
+                              <iframe width="560" height="315" src="{{iframe}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            </div>
+                            {{/if}}
+                            {{#if video}}
+                            <div class="media-bg">
+                              <video controls>
+                                <source src="{{video}}" type="video/webm" />
+                              </video>
+                            </div>
+                            {{/if}}
+                          </div>
+                          {{/each}}
+                        </div>
+                      {{/if}}
+                      <div class="description">
+                        <h4 class="title">{{name}}</h4>
+                        <strong class="price">{{price}} DKK</strong>
+                        {{{description}}}
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                {{#ifSecond @index}}
+                  </div>
+                {{/ifSecond}}
+                {{#ifFifth @index}}
+                  </div>
+                {{/ifFifth}}
+                {{#ifSeventh @index}}
+                  </div>
+                {{/ifSeventh}}
+                {{#ifNinth @index}}
+                  </div>
+                {{/ifNinth}}
+                {{#ifTwelfth @index}}
+                  </div>
+                {{/ifTwelfth}}
+                {{/each}}
+                <div class="scroll-image">
+                  <img src="images/scroll.png" alt="Scroll" />
+                </div>
+              {{else}}
+              <div class="error-message">
+                <h1>No Post Found</h1>
+              </div>
+              {{/if}}
+            </script>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="popup-gallery" id="popupGallery"></div>
+  </body>
+</html>

@@ -1,0 +1,620 @@
+[
+	{
+        "name": "SoMe video",
+        "category": "video",
+        "price": "749,00",
+        "image": "images/img01.jpg",
+        "description": "<p>Få flere visninger på de sociale medier med vores SoMe Video koncept!</p><p>Vores SoMe video laves på baggrund af små videoklip, som er optaget på ejendommen (kan være såvel indendørs som udendørs, alt efter forholdene). Du kan forvente at fotografen har 30 minutter til rådighed. Den endelige video har en længde på 30-60 sekunder og tilpasses med din virksomheds logo og kontaktinformation!</p>",
+        "gallery": [
+            {
+                "video": "media/pb-video-1.mp4"
+            }
+        ]
+    },
+	{
+        "name": "SoMe video med mæglerintro",
+        "category": "video",
+        "price": "1.349,00",
+        "image": "images/img02.jpg",
+        "description": "<p>Vil du gerne have ejendommen til at skille sig ud fra mængden, så er dette produktet for dig!</p><p>Vores SoMe video laves på baggrund af små videoklip, som er optaget på ejendommen (kan være såvel indendørs som udendørs alt efter forholdene). På de første 1-2 klip vil den ansvarlige mægler præsentere ejendommen. Du kan forvente at fotografen har 40 minutter til rådighed! På dagen for optagelse vil videografen starte med at optage 1-2 klip, hvor du præsenterer ejendommen. Disse klip vil blive benyttet som introduktion i den endelige video.</p><p>Den endelige video har en længde på 30-60 sekunder og tilpasses med din virksomheds logo og kontaktinformation!</p>",
+        "gallery": [
+           	{
+                "video": "media/pb-video-2.mp4"
+            }
+        ]
+    },
+	{
+        "name": "High-end Ejendomsvideo m. mægler",
+        "category": "video",
+        "price": "3.299,00",
+        "image": "images/img03.jpg",
+        "description": "<p>Vores high-end ejendomsvideo med mægler foran kameraet giver en unik og autentisk oplevelse af ejendommen og en følelse af at være på stedet.</p><strong>Hvad kan du forvente?</strong><ul><li>At den endelige video har en længde på mellem 45 og 90 sekunder og er optimeret til brug på diverse gængde platforme</li><li>At vores videograf optager ejendommen både udefra og indefra</li><li>At vores videograf optager ejendommens umiddelbare nærmiljø (max 200 meter fra ejendommen)</li><li>At vores videograf har 90 minutter til rådighed</li><li>At vores videograf vil optage skud med mægler foran kameraet. Sørg for at briefe fotografen grundigt på dine ønsker</li><li>At der bruges mere tid i redigeringen på at skabe den bedst mulige video. Videoen redsigeres efter alle kunstens regler, så den fremstår flot og skarp!</li></ul>",
+        "gallery": [
+			{
+                "video": "media/pb-video-3.mp4"
+            },
+            {
+                "video": "media/pb-video-4.mp4"
+            }
+        ]
+    },
+	{
+        "name": "Dronevideo",
+        "category": "video",
+        "price": "1.699,00",
+        "image": "images/img05.jpg",
+        "description": "<p>Få det HELE med!<br>Med fjernbetjente helikopterdroner filmer vores certificerede fotografer i helt op til 100 meters højde, hvilket giver et optimalt indtryk af boligen som helhed og nærområdet.</p><p>Videoen klippes sammen til en længde på ca. 1 minut.</p>",
+        "gallery": [
+			{
+                "video": "media/pb-video-5.mp4"
+            }
+        ]
+    },
+	{
+        "name": "Slideshow video",
+        "category": "video",
+        "price": "329,00",
+        "image": "images/img04.jpg",
+        "description": "<p>Flot slideshow-video, som er sammensat af sagens stillbilleder og krydret med flotte overgange og musik!</p>",
+        "gallery": [
+			{
+                "video": "media/pb-video-6.mp4"
+            }
+        ]
+    },
+    {
+        "name": "3D Visualiseringer",
+        "category": "visualisering",
+        "price": "2.999,00",
+        "image": "images/952f274b-178f-4f4d-bfc8-efb0ac1ced57.png",
+        "description": "<p>Ønsker du visualiseringer lavet fra bunden?</p><p>Så er dette det rigtige produkt for dig.</p><p>Vi kan bygge billeder helt fra bunden. Dette være af en trappe, en hel ejendom - eller hvad du måtte ønske.</p><strong>Betingelser:</strong><ul><li>Du bedes inkludere så mange detaljer om projektet som muligt, da det gør det lettere for vores redigeringsteam at ramme dine ønsker. Har du reference materiale bedes du enten uploade det til ordren efter bestilling - eller fremsende det til vores kundeservice.</li><li>Du skal forvente 5-7 dage leveringstid efter brief.</li><li>Prisen er pr. billede.</li><li>Prisen indeholder én retterunde hvor vi kan rette / justere på mindre ting. Alle øvrige retterunder vil blive faktureret med 1000 kr / stk.</li></ul>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/952f274b-178f-4f4d-bfc8-efb0ac1ced57.png",
+                     "after": "images/1dcb63e2-ed57-45c4-adf4-972865d681b9.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/cbd85a37-0f51-4cd6-8b47-ba7f3b464193.png",
+                 "after": "images/487391cd-62ff-4b96-9f90-2b8213e805cc.jpg"
+                }
+             }
+        ]
+    },
+	{
+        "name": "Digital Visualisering Light",
+        "category": "visualisering",
+        "price": "349,00",
+        "image": "images/5cbf21cf-2c97-4b46-bdb3-bed6e0e6a7a4.jpg",
+        "description": "<p>Digitale visualiseringer behøver ikke at være omfattende og dyre. Med dette produkt skruer vi på færre knapper for at vise ejendommens potentiale frem og optimerer med mindre detaljer – om det så er nye låger til køkkenet eller et spisebord der skal fjernes. Det kan også være møblering af tomme rum!</p><p><strong>Vigtig information</strong></p><strong>Hvad kan jeg få visualiseret?</strong><ol><li>Du kan få visualiseret tomme rum. Du kan anmode om at vi fx indsætter et køkken i et tomt rum eller møblerer en tom stue. Du bedes fortælle os hvad du ønsker visualiseret samt hvilken stil det skal redigeres i. Derefter vil vores redigeringsteam lave din visualisering ud fra branchens best practice standarder. Du har ikke mulighed for at angive meget specifikke ønsker til valg af møbler, farver etc. I så fald skal du i stedet vælge Digital visualisering standard.</li><li>Du kan få fjernet objekter - som f.eks en pool, en reol, en sofa eller tilsvarende.</li></ol><strong>Kan jeg anmode om rettelser til de leverede visualiseringer?</strong><p>Digital Visualisering Light indeholder i modsætning til vores øvrige visualiseringsprodukter <strong>ikke</strong> en retterunde. Medmindre vi har lavet en decideret fejl, har du ikke mulighed for at anmode om ændringer til de leverede visualiseringer. Ønsker du alligevel at vi ændrer på de leverede billeder, koster det 299,- / billede vi skal ændre.</p><strong>Indsættes der stemningsskabende elementer ved visualisering af tomme rum?</strong><p>I modsætning til Digital visualisering standard indretter vi billederne mere spartansk med færre stemningsskabende elementer - som f.eks. blomster, ting på bordene, puder mv.</p><strong>Hvad er leveringstiden?</strong><p>Dine visualiseringer leveres to-tre hverdage efter levering af de almindelige billeder. Under beskedfeltet til kundeservice bedes du anføre hvilket billede der skal visualiseres, samt hvad du ønsker lavet.</p>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/5cbf21cf-2c97-4b46-bdb3-bed6e0e6a7a4.jpg",
+                     "after": "images/cf769608-c96e-4495-adbb-a92ac7330895.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/f6a8a927-025e-4100-b609-66a55c3cf93b.jpg",
+                 "after": "images/4e15e473-3cfc-4784-a0fe-a5baf54bbb73.jpg"
+                }
+             },
+             {
+                "compare": {
+                 "before": "images/75bb476c-83e9-4038-9ea4-f17b18a6f4fb.jpg",
+                 "after": "images/627541bf-834b-42d9-9356-b6b1401ac7fb.jpg"
+                }
+             }
+        ]
+    },
+    {
+        "name": "Digital Visualisering Standard",
+        "category": "visualisering",
+        "price": "649,00",
+        "image": "images/vs.jpeg",
+        "description": "<p>Digital visualisering Standard giver potentielle købere mulighed for at se hvordan en ejendom KAN komme til at se ud.<br>Baseret på dine ønsker skaber vores grafikere en digital visualisering af tomme rum. Vi kan møblere en tom stue, indsætte et nyt køkken eller male vægge og lægge nyt gulv. Vi indsætter også stemningsskabende elementer såsom blomster, ting på bordene etc.</p><p>Prisen er pr. billede</p><p><strong>Vigtigt at vide:</strong></p><strong>Hvor hurtigt er mine visualiseringer klar?</strong><p>Dine visualiseringer leveres to-tre hverdage efter levering af de almindelige billeder. Under beskedfeltet til kundeservice bedes du anføre hvilket billede der skal visualiseres, samt hvad du ønsker lavet. Inkluder så mange detaljer som muligt. Desto flere detaljer desto bedre visualiseringer i den sidste ende.</p><strong>Koster det ekstra hvis jeg skal have fjernet noget før nyt indsættes?</strong><p>Vi visualiser kun tomme rum i Digital Visualisering Standard. Det betyder at vi kan indsætte et nyt køkken, møblere og reparere gulve og vægge i mere eller mindre tomme rum. Skal vi først fjerne ting (et køkken eller rydde en stue for møbler), for derefter at indsætte nye møbler / nyt køkken, skal du købe Digital visualisering Premium.</p><strong>Kan jeg anmode om ændringer til mine digitale visualiseringer?</strong><p>Vi tilbyder én gratis retterunde. Under retterunden kan du få justeret på mindre ting - herunder farver, placering af inventar etc. Det vil ikke være muligt at ændre større ting - herunder et andet køkken etc.. Har du efter første retterunde flere ønsker til det leverede materiale, så koster det 299 DKK pr. retterunde.</p>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/vs.jpeg",
+                     "after": "images/vs1.jpeg"
+                 }
+             }
+        ]
+    },
+	{
+        "name": "Digital Visualisering Premium",
+        "category": "visualisering",
+        "price": "999,00",
+        "image": "images/Vs-premium1.jpg",
+        "description": "<p>Digital visualisering Premium giver i modsætning til Digital Visualisering Standard muligheden for at vi f.eks. fjerner et gammelt køkken – for derefter at indsætte et nyt. Vi kan også rydde en stue for gamle møbler for derefter at indsætte nye møbler.</p><p>Prisen er pr. billede</p><p><strong>Vigtig information:</strong></p><strong>Hvor lang tid tager det at lave visualiseringerne?</strong><p>Dine visualiseringer leveres to-tre hverdage efter levering af de almindelige billeder. Under beskedfeltet til kundeservice bedes du anføre hvilket billede der skal visualiseres, samt hvad du ønsker lavet. Inkluder så mange detaljer som muligt. Desto flere detaljer desto bedre visualiseringer i den sidste ende.</p><strong>Kan jeg anmode om ændringer til mine digitale visualiseringer?</strong><p>Vi tilbyder én gratis retterunde. Under retterunden kan du få justeret på mindre ting - herunder farver, placering af inventar etc. Det vil ikke være muligt at ændre større ting - herunder et helt andet køkken etc.. Har du efter første retterunde flere ønsker til det leverede materiale, så koster det 299DKK pr. retterunde.</p>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/Vs-premium1.jpg",
+                     "after": "images/_MG_7095_VS.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/d2ff67db-d612-40f3-b8be-1603242c0603.jpg",
+                 "after": "images/fb16be29-7aea-4541-8b4f-1effad4ae46d.jpg"
+                }
+             }
+        ]
+    },
+	{
+        "name": "Digital Visualisering Deluxe",
+        "category": "visualisering",
+        "price": "1.999,00",
+        "image": "images/before-2.jpg",
+        "description": "<p>Digital visualisering Deluxe er vores high-end digitale visualiserings produkt! I Deluxe versionen lægges der ekstra mange kræfter i den digitale behandling af det enkelte billede. Der kæles for alle detaljer så lys, rumfornemmelse, størrelsesforhold er perfekt afstemte i forhold til hinanden. Resultatet er yderst naturtro og realistiske billeder hvor alt går op i en højere enhed!</p><p>Prisen er pr. billede</p><p><strong>Vigtig information:</strong></p><strong>Hvornår er mine visualiseringer klar?</strong><p>Digital Visualisering Deluxe har en leveringstid på fire-fem hverdage. Under beskedfeltet til kundeservice bedes du anføre hvilket billede/billeder der skal visualiseres, samt hvad du ønsker lavet. Inkluder så mange detaljer som muligt. Desto flere detaljer desto bedre visualiseringer i den sidste ende. Vi kan også give dig et kald og drøfte dine ønsker over telefonen.</p><strong>Kan jeg anmode om ændringer til mine digitale visualiseringer?</strong><p>Særligt til Deluxe versionen tilbyder vi to gratis retterunder. Under retterunderne kan du få justeret på mindre ting - herunder farver, placering af inventar etc. Det vil ikke være muligt at ændre større ting - herunder et helt andet køkken etc.. Har du efter anden retterunde flere ønsker til det leverede materiale, så koster det 999DKK pr. retterunde.</p>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/before-2.jpg",
+                     "after": "images/after-2.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/before-1.jpg",
+                 "after": "images/after-1.jpg"
+                }
+             }
+        ]
+    },
+	{
+        "name": "1 Skumringsfoto",
+        "category": "visualisering",
+        "price": "49,00",
+        "image": "images/te2B8wLz.jpeg",
+        "description": "Skumringsbilleder fremhæver stemningen og hyggen ved ejendommen på smukkeste – et prisvenligt alternativ til aftenfotografering.",
+        "gallery": [
+            {
+                "image": "images/te2B8wLz.jpeg"
+             },
+             {
+                "image": "images/6baqabDf.jpeg"
+             }
+        ]
+    },
+	{
+        "name": "Farv & forny",
+        "category": "visualisering",
+        "price": "249,00",
+        "image": "images/IMG_0175.jpg",
+        "description": "Vi maler efter dine ønsker nye farver på facaden, køkkenlåger og skabe, alle vægge i et rum, eller noget femte, som du ønsker malet. En smart måde at vise potentielle købere mulighederne ved boligen. Prisen er pr. billede!",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/IMG_0175.jpg",
+                     "after": "images/IMG_0175_VS.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/SM106601.jpg",
+                 "after": "images/SM106601_1.jpg"
+                }
+             }
+        ]
+    },
+    {
+        "name": "Fuld styling",
+        "category": "styling",
+        "price": "22.499,00",
+        "image": "images/before-5.jpg",
+        "description": "<p>Hvad end det gælder et enkelt rum eller et helt hjem, der står tomt, så er vores professionelle stylist klar til at trylle ejendommen flot og lækker ved hjælp af lækre møbler og stilfuldt inventar. Det helt rigtige interiør kan nemlig være den afgørende forskel mellem ”til salg” og ”solgt”. </p><p>Med denne pakke afstemmer stylisten og sælger det endelige resultat over et møde, efterfulgt af en præsentation. Dernæst kommer vi forbi med:</p><p><ul><li>lidt fra øverste hylde indenfor design og arkitektur.</li><li>naturligt og afdæmpet hverdagsinventar fra bl.a. IDEmøbler, ILVA og lignende.</li><li>et charmerende udvalg af vintage, antikke genstande, loppefund og andre unikke sager, som giver boligen et personligt touch.</li><li>Med andre ord: Vores styling gør hjemmet lækkert og indbydende – på en troværdig måde.</li></ul><p/><strong>Godt at vide:</strong><ul><li>Den ultimative makeover af ejendommen</li><li>Opstartsmøde mellem sælger og stylist</li><li>Præsentation af løsningsforslag til styling</li><li>Komplet styling af tre rum</li><li>Leje af møbler i seks uger.</li><li>Møblering af ekstra rum: 4.500,00DKK pr. rum. (angiv i kommentarerne såfremt du ønsker ekstra rum ud over de tre rum, der er inkluderet).</li></ul>",
+        "gallery": [
+            {
+                "compare": {
+                     "before": "images/before-5.jpg",
+                     "after": "images/after-5.jpg"
+                 }
+             },
+             {
+                "compare": {
+                 "before": "images/before-6.jpg",
+                 "after": "images/after-6.jpg"
+                }
+             }
+        ]
+    },
+	{
+        "name": "Fotostyling",
+        "category": "styling",
+        "price": "1.999,00",
+        "image": "images/E392A834-28E5-4371-A6CA-09AE30944039-2.jpg",
+        "description": "<p>Med denne pakke sørger vores professionelle stylist for at shine ejendommen op med øje for de små detaljer.<br>Stylisten gør flader pæne og flytter rundt på mindre ting, så der opnås et roligt udtryk på billederne.<br>Stylisten medbringer boligaccessoires, som giver ejendommen en hyggelig stemning og pifter det hele op.</p><p>Med andre ord: Vores styling gør ejendommen lækker og indbydende – på en troværdig måde.</p><strong>Godt at vide:</strong><p><ul><li>Vores stylist kommer en time før fotografen</li><li>Stylisten medbringer et stort udvalg af accessoires og tilbehør</li><li>Stylisten er til stede under fotograferingen</li><li>Vi sørger for efterfølgende nedpakning og oprydning af accessoires</li><li>Selvom stylisten sørger for at alle flader er pæne, så forventes det at der er ryddet op inden stylisten ankommer til adressen.</li><li>Bemærk at der tilkommer et tillæg på kr 650 for hver 150 m2 der skal styles.</li></ul><p/>",
+        "gallery": [
+            {
+                "image": "images/E392A834-28E5-4371-A6CA-09AE30944039-2.jpg"
+            },
+            {
+                "image": "images/FC68EDFD-643A-40B5-BB25-08428F3CA087-2.jpg"
+            }
+        ]
+    },
+	{
+        "name": "Rådgivningsbesøg",
+        "category": "styling",
+        "price": "1.950,00",
+        "image": "images/04fead2f-aaac-4d73-903f-cb7cd480380f.jpg",
+        "description": "<p>Vores stylister tager købers briller på. Fra fortovskanten og hele vejen igennem ejendommen fra kælder til kvist. Ved besøget giver stylisten enkle råd om, hvordan sælger får sin ejendom til at præsentere sig bedst muligt.</p><p>Der er afsat op til 2 timer ved besøget.</p>",
+        "gallery": [
+        ]
+    },
+	{
+        "name": "Salgsoptimerings rapport",
+        "category": "styling",
+        "price": "1.499,00",
+        "image": "images/E392A834-28E5-4371-A6CA-09AE30944039-2.jpg",
+        "description": "<p>Skil dig ud fra mængden og få flere boliger til salg med en salgsoptimeringsrapport!</p><p>Når du bestiller en salgsoptimeringsrapport, skræddersyer vores boligstylist en rapport med ti konkrete anbefalinger og tiltag, som vil skabe højere værdi og dermed øge interessen for ejendommen; og som også giver en større forudsætning for et hurtigere salg til højest mulige pris. Produktet benyttes typisk i ”kommifasen”, hvor man eksempelvis kan tilbyde at give den potentielle sælger tre gratis råd fra rapporten. Hvis/når sælger skriver under på formidlingsaftalen, får sælger de sidste syv råd med.</p><p>Efter bestilling vil vores boligstylist kontakte den potentielle sælger, og sammen gennemgår de ejendommen med fokus på dens æstetiske udtryk. Efterfølgende vil stylisten præsentere en række forskellige tiltag – nogle af tiltagene kan sælger hurtigt og nemt klare selv, og nogle af tiltagene vil være af mere omfattende karakter og kræve ekstern hjælp.</p><p>På baggrund af gennemgangen af ejendommen udarbejdes der en salgsoptimeringsrapport, der fremsendes automatisk til dig.</p><p><a href=\"https://zigna-static.s3.eu-central-1.amazonaws.com/extra-products/rapport_kommisioneringsvaerktoej.pdf\">Se eksempel på en rapport her.</a></p>",
+        "gallery": [
+        ]
+    },
+    {
+        "name": "Dronefoto & dronevideo",
+        "category": "drone",
+        "price": "2.399,00",
+        "image": "images/xx-3.JPG",
+        "description": "<p>Få det HELE med!<br>Med fjernbetjente helikopterdroner filmer og fotograferer vores certificerede fotografer i helt op til 100 meters højde, hvilket giver et optimalt indtryk af bolige, nærområdet og helheden.</p><p>Der produceres en video på ca. 1 minut. Hertil tages der 4 fotos!</p>",
+        "gallery": [
+            {
+                "video": "media/7f442c1d-b058-4aec-a722-06752a298881.mp4"
+            },
+			{
+                "image": "images/xx-3.JPG"
+            },
+			{
+                "image": "images/5.jpg"
+            },
+            {
+                "image": "images/3-2.jpg"
+            }
+        ]
+    },
+	{
+        "name": "4 Dronefotos",
+        "category": "drone",
+        "price": "879,00",
+        "image": "images/5.jpg",
+        "description": "<p>Store ejendomme, særlig arkitektur og mange udbygninger gør sig alle godt på dronefotos. Dronefotografering foretages af certificerede og erfarne dronepiloter med skarpe fotokundskaber, som med fjernbetjente helikopterdroner tager fire billeder i helt op til 100 meters højde. Således får man det optimale indtryk af ejendommen som helhed – og om kulissen er de rullende marker, bølgen blå eller det hyggelige lokalsamfund, det bestemmer ejendommen.</p>",
+        "gallery": [
+          	{
+                "image": "images/xx-3.JPG"
+            },
+			{
+                "image": "images/5.jpg"
+            },
+            {
+                "image": "images/3-2.jpg"
+            }
+        ]
+    },
+	{
+        "name": "10 Dronefotos",
+        "category": "drone",
+        "price": "1.099,00",
+        "image": "images/3-2.jpg",
+        "description": "<p>Store ejendomme, særlig arkitektur og mange udbygninger gør sig alle godt på dronefotos. Dronefotografering foretages af certificerede og erfarne dronepiloter med skarpe fotokundskaber, som med fjernbetjente helikopterdroner tager ti billeder i helt op til 100 meters højde. Således får man det optimale indtryk af ejendommen som helhed – og om kulissen er de rullende marker, bølgen blå eller det hyggelige lokalsamfund, det bestemmer ejendommen.</p>",
+        "gallery": [
+          	{
+                "image": "images/xx-3.JPG"
+            },
+			{
+                "image": "images/5.jpg"
+            },
+            {
+                "image": "images/3-2.jpg"
+            }
+        ]
+    },
+	{
+        "name": "Dronevideo",
+        "category": "drone",
+        "price": "1.699,00",
+        "image": "images/xx-3.JPG",
+        "description": "<p>Få det HELE med!<br>Med fjernbetjente helikopterdroner filmer vores certificerede fotografer i helt op til 100 meters højde, hvilket giver et optimalt indtryk af boligen som helhed; og oven i købet får nærområdet med.</p><p>Videoen klippes sammen til en længde på ca. 1 minut.</p>",
+        "gallery": [
+            {
+                "video": "media/7f442c1d-b058-4aec-a722-06752a298881.mp4"
+            }
+        ]
+    },
+    {
+        "name": "Ejendomsbeskrivelse",
+        "category": "tekster",
+        "price": "599,00",
+        "image": "images/4d559b33-06b8-4158-86e4-c3c5a10a77e9.jpg",
+        "description": "<p>Få din fotobestilling ledsaget af en professionel ejendomsbeskrivelse, som er udformet præcis efter dit ønske. Vores kompetente tekstforfatterteam formår både at male med den helt store pensel, men også at skrive en klassisk & faktuel tekst, som er nede på jorden. Fælles for alle tekster er, at de er unikke og fortæller historien om livet og potentialet i hver ejendom.</p><p>Vi har mange års erfaring med ejendomsbeskrivelser, og vi har skrevet om alt fra slotslignende palævillaer i Nordsjælland til store erhvervsejendomme i det midtjyske og ikke mindst storbyens håndværkertilbud. Uanset hvilken ejendom det gælder, ser vi mulighederne og gør os umage med at skrive kvaliteterne frem.</p><p>Vi byder altid nye kunder velkommen med et opkald, hvor vi afklarer dine generelle ønsker i forhold til opsætning og skrivestil. Du kan selv vælge mellem vores seks tekststile: faktuel, malende, iscenesættende, guidet tur, humoristisk eller en spade for en spade - ligesom du kan vælge at knytte en sælgergodkendelse eller et Premiuminterview til din ordre.</p><p><small><strong>NB!</strong> Zigna gør alt hvad der er muligt for at skrive gode og rammende ejendomsbeskrivelser. Dog kan der ikke garanteres 100% fejlfrihed, hvorfor det er vigtigt at du som mægler, altid selv gennemlæser nye beskrivelser og sender dine eventuelle korrektioner retur.<br>Ydermere er det vigtigt, at du altid på forhånd noterer uddybende stikord til den specifikke sag, så forfatteren har det bedst mulige grundlag for at skrive en god tekst i overensstemmelse med forventningerne. Dette er dog ikke påkrævet ved Ejendoms <em>beskrivelse Premium.</em></small></p>",
+        "gallery": [
+        ]
+    },
+	{
+        "name": "Ejendomsbeskrivelse - Premium",
+        "category": "tekster",
+        "price": "899,00",
+        "image": "images/c12f9963-dae0-4517-983e-88a92e6b2c56.jpg",
+        "description": "<p>Få din fotobestilling ledsaget af en professionel ejendomsbeskrivelse, som er udformet præcis efter dit ønske. Vores kompetente tekstforfatterteam formår at male med den helt store pensel – men forstår også at skrive en klassisk, faktuel tekst, som er nede på jorden. Fælles for alle tekster er, at de er unikke og fortæller historien om livet og potentialet i hver bolig.</p><p>Vi har mange års erfaring med ejendomsbeskrivelser, og vi har skrevet om alt fra slotslignende palævillaer i Nordsjælland til store erhvervsejendomme i det midtjyske – og ikke mindst storbyens håndværkertilbud. Uanset hvilken ejendom det gælder, ser vi mulighederne og gør os umage med at skrive kvaliteterne frem.</p><p>Vi byder altid nye kunder velkommen med et opkald, hvor vi afklarer dine generelle ønsker i forhold til opsætning og skrivestil. Du kan selv vælge mellem vores seks tekststile: faktuel, malende, iscenesættende, guidet tur, humoristisk eller en spade for en spade.</p><p>I <em>Premium</em> versionen vil tekstforfatteren foretage et personligt interview med sælger eller mægler, før teksten skrives. Herudover sørger vores forfatter selv for at fremskaffe alle nødvendige informationer om den givne ejendom.</p><p>NB! zigna gør alt, hvad der er muligt, for at skrive gode og rammende ejendomsbeskrivelser. Dog kan der ikke garanteres 100% fejlfrihed, hvorfor det er vigtigt, at du altid selv gennemlæser nye beskrivelser og sender dine eventuelle rettelser retur.</p>",
+        "gallery": [
+        ]
+    },
+	{
+        "name": "Ejendomsbeskrivelse Light",
+        "category": "tekster",
+        "price": "349,00",
+        "image": "images/aaron-burden-y02jEX_B0O0-unsplash.jpg",
+        "description": "<p>Få dine ejendomme beskrevet kort og præcist med Ejendomsbeskrivelse Light. På under 1000 anslag kommer vores kompetente hold af tekstforfattere rundt om det væsentligste ved boligen og området, men til en lavere pris end ved den klassiske ejendomsbeskrivelse.</p><p>Vi byder altid nye kunder velkommen med et opkald, hvor vi afklarer dine generelle ønsker i forhold til opsætning og skrivestil. Du kan selv vælge mellem vores seks tekststile: faktuel, malende, iscenesættende, guidet tur, humoristisk eller en spade for en spade - ligesom du kan vælge at knytte en sælgergodkendelse eller et Premiuminterview til din ordre.</p><strong>NB!</strong><p>Zigna gør alt hvad der er muligt for at skrive gode og rammende ejendomsbeskrivelser. Dog kan der ikke garanteres 100% fejlfrihed, hvorfor det er vigtigt at du som mægler, altid selv gennemlæser nye beskrivelser og sender dine eventuelle korrektioner retur.Ydermere er det vigtigt, at du altid på forhånd noterer uddybende stikord til den specifikke sag, så forfatteren har det bedst mulige grundlag for at skrive en god tekst i overensstemmelse med forventningerne. Dette er dog ikke påkrævet ved <em>Ejendomsbeskrivelse Premium.</em></p>",
+        "gallery": [
+        ]
+    },
+	{
+        "name": "Vi sætter ord på!",
+        "category": "tekster",
+        "price": "699,00",
+        "image": "images/aaron-burden-y02jEX_B0O0-unsplash.jpg",
+        "description": "<p>Ønsker du at få skrevet gennemarbejdede tekster til din virksomhed? Så står vores kompetente tekstforfatterafdeling klar, for de har ild i fingrene og er klar til at sætte ord på lige netop dit projekt. Vi skræddersyer velskrevne og gennemførte tekster, som formidler dit budskab professionelt. Ingen opgave er for stor, og vi udformer gerne tekstmateriale til det, du har behov for. Herunder bl.a.:</p><ul><li>Salgsfremmende nyhedsbreve</li><li>Tekstindhold til hjemmesider</li><li>Personlige portrætter</li><li>Pressemeddelelser</li><li>SoMe-content</li><li>Projektsalg</li></ul><p>Efter ordreafgivelse vil en af vores kompetente tekstforfattere tage direkte kontakt til dig for at aftale nærmere. Der aftales enten en fast pris for et givent projekt eller pr. time. Vores timepris er kun 699DKK/timen. Hvis du ved ordreafgivelse hvor mange timer, du gerne vil bruge på projektet, så vælger du blot antallet af timer. Ved du ikke hvor mange timer der skal bruges på projektet, vil vores team komme med et estimat baseret på din projektbeskrivelse. I det tilfælde skal du blot vælge én time - som efterfølgende vil blive korrigeret på baggrund af det reelle tidsforbrug. Den/de endelige tekster fremsendes til dig pr. mail.</p><span>En glad kunde:</span><p><em>”Vi har haft fornøjelsen af at arbejde sammen med tekstforfatterteamet fra Zigna af flere omgange til store og mindre projekter. De har leveret tekster til salgsbrochurer, hjemmesider, salgsopstillinger og tekst til internettet - herunder introtekst, områdetekst, tekst til diverse boligtyper og meget, meget mere. Vi har fundet ud af, at alt kan lade sig gøre. De er hurtige og effektive til at lave drømmende tekster. Derudover er de gode til at tage sig tid til os og de rettelser/ændringer, vi måtte have, selvom det har været begrænset, da kvaliteten har været i top ALLE GANGE. Tekstforfatterteamet er selv meget opsøgende ift. viden omkring området m.m. og finder selv ud af mange ting, vi ikke har fortalt.</em></p><p><em>Vi kan kun give tekstforfatterteamet og Zigna vores bedste anbefalinger, og vi vil i fremtiden booke jer til de nye projekter, der kommer ind.</em></p><p><em>/Projektafdelingen – Nybolig Palle Ørtoft”</em></p>",
+        "gallery": [
+        ]
+    },
+    {
+        "name": "2D Plantegning",
+        "category": "plantegninger",
+        "price": "229,00",
+        "image": "images/plantegning-241.jpg",
+        "description": "Ønsker du en flot 2D-plantegning, der kan tilpasses dine ønsker i forhold til farve og stil? Så er det her ekstraprodukt perfekt for dig!",
+        "gallery": [
+            {
+                "image": "images/plantegning-241.jpg"
+            },
+            {
+                "image": "images/plantegning_1-58.jpg"
+            }
+        ]
+    },
+	{
+        "name": "3D Plantegning",
+        "category": "plantegninger",
+        "price": "199,00",
+        "image": "images/1.jpg",
+        "description": "3D plantegning er en anderledes og spændende måde at præsentere ejendomme på. Det gør det muligt at visualisere boligens rum i 3D, og giver derved en virkelighedstro fornemmelse for bl.a. dens indretningsmæssige muligheder.",
+        "gallery": [
+            {
+                "image": "images/1.jpg"
+            },
+            {
+                "image": "images/2-2.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Liebhaver Redigering",
+        "category": "redigering",
+        "price": "299,00",
+        "image": "images/10a28cc6-4859-4614-9bcd-282eb28bea14.jpg",
+        "description": "<p>Hvorfor skal du vælge Liebhaver redigering af dine billeder?</p><p>Det korte svar er at billederne redigeres og optimeres efter alle kunstens regler, og efterlader elegante og skarpe billeder med en høj detaljeringsgrad. Liebhaver er den skarpeste af alle vores redigeringstyper. Her får du farverige og kontrastfulde billeder, hvor udsigten gennem vinduerne altid er 100 procent detaljeret.</p><p>Det lidt mere \"nørdede\" svar er denne type af redigering er den mest komplekse og kræver en manuel sammenlægning af alle eksponeringer, hvor både farver og eksponering korrigeres forud for sammenlægning af eksponeringerne. Vi optimerer himlen og skaber en klar udsigt gennem vinduerne. Slutteligt retter vi perspektivet til.</p><span>Redigeringsprocessen:</span><ul><li>Korrektion af eksponeringer og farver</li><li>Korrekt eksponering omkring vinduer og deres udsigt</li><li>Optimering af himlen</li><li>Skarpere og klarere billeder</li><li>Støjreduktion</li><li>Korrektion af perspektivet</li></ul>",
+        "gallery": [
+            {
+                "image": "images/10a28cc6-4859-4614-9bcd-282eb28bea14.jpg"
+            },
+            {
+                "image": "images/8582e134-6f19-4918-89d7-63665a962049.jpg"
+            },
+			{
+                "image": "images/90ee6a8c-46e9-4f36-b0f5-e65f933c4d8c.jpg"
+            },
+			{
+                "image": "images/3c58cd1b-3cae-4f04-9a4f-ebe9bedeff27.jpg"
+            },
+			{
+                "image": "images/3f6d12b1-c395-4b74-98eb-054b33ce45ec.jpg"
+            }
+        ]
+    },
+	{
+        "name": "New Modern Redigering",
+        "category": "redigering",
+        "price": "299,00",
+        "image": "images/20ed074a-d48d-450f-88fc-4b0fb020c541.jpg",
+        "description": "<p>New Modern er en redigeringstil med realistiske farvetoner, en høj detaljeringsgrad samt et naturligt lys og kontrast, hvor et autentisk lys er beholdt i udsigten gennem vinduerne.</p><p>De forskellige eksponeringer sammenlægges manuelt, og korrektionen af farve og eksponering foretages herefter. Himlen gøres blå, og der skrues op for billedets skarphed og klarhed i detaljerne. Oftest vil der være støj i billedet på grund af det naturlige lys – det fjerner vi, og til sidst korrigeres perspektivet, så alt står knivskarpt.</p><span>Redigeringsprocessen:</span><ul><li>Korrektion af eksponering og farve</li><li>Optimering af himlen</li><li>Skarpere og klarere billeder</li><li>Støjreduktion</li><li>Perspektivkorrektion</li></ul>",
+        "gallery": [
+            {
+                "image": "images/20ed074a-d48d-450f-88fc-4b0fb020c541.jpg"
+            },
+            {
+                "image": "images/04fead2f-aaac-4d73-903f-cb7cd480380f.jpg"
+            },
+			{
+                "image": "images/3f3874fb-5111-4707-a6d6-c7fa38bcbb21.jpg"
+            },
+			{
+                "image": "images/44a1e833-8717-4127-ba15-ffac3beca0ce.jpg"
+            },
+			{
+                "image": "images/851ea63e-9193-47ba-8e9d-277a9b9d595e.jpg"
+            },
+			{
+                "image": "images/1b1421ad-2970-4fa0-bf04-25bf84000683.jpg"
+            }
+        ]
+    },
+	{
+        "name": "High Saturation Redigering",
+        "category": "redigering",
+        "price": "199,00",
+        "image": "images/92506921-f03b-4e0c-8f6b-97be7a8d6fcc.jpg",
+        "description": "<p>Denne redigeringstype giver de mest levende og dybe farver, så du får billeder med høj kontrast, mætning og lysstyrke.</p><p>Her sammenlægges de forskellige eksponeringer ved hjælp af et software-program, hvorefter vi korrigerer farver og eksponering. Til forskel fra vores andre typer af redigering er der her ekstra fokus på farvernes livlighed, mætning og kontrast, så farvetonen bliver mere intens. Der foretages selvfølgelig stadig støjreduktion, optimering af himlen og perspektivkorrektion.</p><span>Redigeringsprocessen:</span><ul><li>Korrektion af eksponering og farve</li><li>Ekstra levende farver, høj mætning og kontrast</li><li>Optimering af himlen</li><li>Støjreduktion</li><li>Perspektivkorrektion</li></ul>",
+        "gallery": [
+            {
+                "image": "images/92506921-f03b-4e0c-8f6b-97be7a8d6fcc.jpg"
+            },
+            {
+                "image": "images/4d559b33-06b8-4158-86e4-c3c5a10a77e9.jpg"
+            },
+			{
+                "image": "images/2dbb87b6-8eb4-45ea-8d66-d9f2f2d573a8.jpg"
+            },
+			{
+                "image": "images/702f3eb2-6143-4c15-9fc2-8765b27f5630.jpg"
+            },
+			{
+                "image": "images/04208e22-4533-4e97-9866-9b24a07825ca.jpg"
+            }
+        ]
+    },
+    {
+        "name": "HDR Fotos",
+        "category": "fotos",
+        "price": "390,00",
+        "image": "images/7.jpg",
+        "description": "<p>Flotte HDR fotos - inde eller ude. Prisen er pr. stk. Du skal bestille minimum 10 fotos.</p>",
+        "gallery": [
+            {
+                "image": "images/7.jpg"
+            },
+			{
+                "image": "images/8.jpeg"
+            },
+            {
+                "image": "images/hovedbygning_10.jpg"
+            }
+        ]
+    },
+	{
+        "name": "1 Mastefoto",
+        "category": "fotos",
+        "price": "69,00",
+        "image": "images/41.jpg",
+        "description": "<p>Man ser alting lidt bedre oppefra! Og hvad er smukkere end det ganske danske land?</p><p>Vores mastefotos giver et optimalt indtryk af ejendommens helhed, når fotografen ved hjælp af en mast eleverer kameraet og skyder billederne fra omkring fem meters højde.</p>",
+        "gallery": [
+            {
+                "image": "images/41.jpg"
+            },
+			{
+                "image": "images/aswe.jpg"
+            },
+            {
+                "image": "images/asd.JPG"
+            }
+        ]
+    },
+	{
+        "name": "1 Livsstilsfoto",
+        "category": "fotos",
+        "price": "55,00",
+        "image": "images/11.jpg",
+        "description": "<p>Flotte livsstilsbilleder fremhæver særlige træk ved ejendommen og dens nærmiljø. Det kan f.eks. være flot stuk, rustikt træværk, en smuk udsigt, unikke elementer eller andet, der er repræsentativt for ejendommen.</p><p>Ved valg af 1 Livsstilsfoto udvælger fotografen en særlig detalje, der skal fremhæves på et billede. Dette er den perfekte mulighed for at lade billedet tale for sig selv og lade ejendommens personlighed stråle!</p>",
+        "gallery": [
+            {
+                "image": "images/11.jpg"
+            },
+            {
+                "image": "images/c12f9963-dae0-4517-983e-88a92e6b2c56.jpg"
+            }
+        ]
+    },
+	{
+        "name": "Sæsonopdatering (5 stillbilleder & 1 mastefoto)",
+        "category": "fotos",
+        "price": "244,00",
+        "image": "images/12.jpg",
+        "description": "<p>Blomstrer kirsebærtræerne, er blomsterbedene sprunget ud, eller prydes trækronerne af smukke, brændte nuancer? Vi opdaterer udendørsbillederne (5 stills + 1 mastefoto), så de passer til den aktuelle årstid. Du kan forvente, at sæsonopdateringen afvikles indenfor 2-3 uger. </p>",
+        "gallery": [
+            {
+                "image": "images/12.jpg"
+            },
+			{
+                "image": "images/22.jpg"
+            },
+            {
+                "image": "images/32.jpg"
+            }
+        ]
+    },
+	{
+        "name": "Kombi sæsonopdatering (10 stills + 1 mastefoto)",
+        "category": "fotos",
+        "price": "419,00",
+        "image": "images/22.jpg",
+        "description": "<p>Blomstrer kirsebærtræerne, er blomsterbedene sprunget ud, eller prydes trækronerne af smukke, brændte nuancer? Vi opdaterer udendørsbillederne (10 stills + 1 mastefoto), så de passer til den aktuelle årstid. Du kan forvente, at sæsonopdateringen afvikles indenfor 2-3 uger.</p>",
+        "gallery": [
+            {
+                "image": "images/12.jpg"
+            },
+			{
+                "image": "images/22.jpg"
+            },
+            {
+                "image": "images/32.jpg"
+            }
+        ]
+    },
+	{
+        "name": "3-5 Nærmiljøfotos",
+        "category": "fotos",
+        "price": "279,00",
+        "image": "images/z.jpg",
+        "description": "<p>Bestil nærmiljø, og få det hele med, hvis ejendommen har en særligt attraktiv beliggenhed. Det kan være særlige seværdigheder, smukke omgivelser, populærer spisesteder etc., som giver ejendommen sin særlige herlighedsværdi.</p>",
+        "gallery": [
+            {
+                "image": "images/z.jpg"
+            },
+			{
+                "image": "images/k.jpg"
+            },
+            {
+                "image": "images/t.jpg"
+            }
+        ]
+    },
+	{
+        "name": "1 Skumringsfoto",
+        "category": "fotos",
+        "price": "49,00",
+        "image": "images/te2B8wLz.jpeg",
+        "description": "<p>Skumringsfotos fremhæver stemningen og hyggen ved aftentide. Her tager vores redigeringsteam et ejendomsfoto under kærlig behandling og fremtryller den helt særlige atmosfære, der opstår ved skumring – et prisvenligt alternativ til aftenfotografering!</p>",
+        "gallery": [
+            {
+                "image": "images/te2B8wLz.jpeg"
+            },
+			{
+                "image": "images/6baqabDf.jpeg"
+            }
+        ]
+    },
+	{
+        "name": "5 Livsstilsfotos i højformat",
+        "category": "fotos",
+        "price": "229,00",
+        "image": "images/2a8bb3dd-ac1e-4b1b-ba57-f1c903c6f0d1.jpg",
+        "description": "<p>Benytter du Instagram, Facebook eller andre Sociale medier, når du markedsfører dine ejendomme? Så er dette produktet for dig!</p><p>Vores fotograf skyder fem flotte livsstilsfotosfotos i højformat, som stiller skarpt på ejendommens særlige detaljer. Billeder som har til formål at fremhæve stemninger og bringe det bedste i ejendommen frem, om det er en flot stuk, en unik udsigt eller rustikt træværk. Da billederne tages i højformat, passer de perfekt til blandt andet Instagram!</p>",
+        "gallery": [
+            {
+                "image": "images/2a8bb3dd-ac1e-4b1b-ba57-f1c903c6f0d1.jpg"
+            },
+			{
+                "image": "images/7594a9a4-6233-402d-a916-c62c710db040.jpg"
+            }
+        ]
+    },
+	{
+        "name": "Aftenfotografering",
+        "category": "fotos",
+        "price": "699,00",
+        "image": "images/ejendommen_12.png",
+        "description": "<p>Aftenfotografering indfanger ejendommen og nærmiljøets sjæl og charme ved skumringstid – og hvad er smukkere end end brændende himmel? Her kommer fotografen ud, når solen takker af for dagen, og fanger ejendommen med den ægte aftenhimmel som baggrund.</p><p>Der tages 3-5 fotos.</p>",
+        "gallery": [
+            {
+                "image": "images/ejendommen_12.png"
+            },
+			{
+                "image": "images/ejendommen_14.png"
+            }
+        ]
+    }
+]
